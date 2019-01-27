@@ -34,6 +34,6 @@ public class Main {
                 t = array[i];
             }
         }
-        System.out.println(k + "\t" + t);
+        System.out.println(k + "   " + t);
     }
 }
